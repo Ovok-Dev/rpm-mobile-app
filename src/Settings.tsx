@@ -133,7 +133,7 @@ export function Settings({
       <SectionTitle>About this example</SectionTitle>
       <Row
         title="Source code"
-        detail="AGPL-3.0 · Version 1.0.0"
+        detail="Apache-2.0 · Version 1.0.0"
         symbol="chevron.left.forwardslash.chevron.right"
         onPress={() =>
           void openLink("https://github.com/Ovok-Dev/rpm-mobile-app")
