@@ -94,7 +94,7 @@ Report only checks actually completed. A simulator cannot verify BLE pairing. Ty
 
 Update the README and any affected setup instructions with configuration changes. Explain which current Ovok docs a reader must check and which project setup belongs to an administrator. Use synthetic examples and working relative links.
 
-Original app source is **AGPL-3.0-only**. Preserve [LICENSE](LICENSE) and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). The proprietary Actimi native SDK has separate permission requirements; the app license does not license the SDK. Do not imply that downstream users inherit the project owner's SDK permission.
+Original app source is **Apache-2.0**. Keep `package.json`, `package-lock.json`, Settings, README, and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) consistent with [LICENSE](LICENSE). The proprietary Actimi native SDK has separate permission requirements; the app license does not license the SDK. Do not imply that downstream users inherit the project owner's SDK permission.
 
 Keep work local unless the user explicitly requests a push, pull request, publication, or deployment. Do not stage or commit as an incidental part of editing. Finish with the concrete changes, checks performed, and remaining limitations.
 

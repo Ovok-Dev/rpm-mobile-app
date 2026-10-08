@@ -31,4 +31,4 @@ Use existing components and boundaries; write small readable functions and focus
 
 Run the relevant checks from CONTRIBUTING.md. Exercise interface changes in the native simulator; device behavior requires actual hardware. Report untested authentication, permissions, and hardware behavior explicitly.
 
-Keep original app source **AGPL-3.0-only** and preserve the separate Actimi SDK notice. Keep changes local; pushes, publications, and deployments require an explicit user request. Do not stage or commit unless requested. Report the changed files, completed checks, and any remaining risk.
+Keep original app source **Apache-2.0**, update the manifest and lockfile together, and preserve the separate Actimi SDK notice. Keep changes local; pushes, publications, and deployments require an explicit user request. Do not stage or commit unless requested. Report the changed files, completed checks, and any remaining risk.

@@ -14,7 +14,7 @@ Verified on 8 October 2026. This is a documentation example with a working simul
 | Expo dependency compatibility | `npx expo install --check` passes                                                           |
 | Source configuration          | Public tenant configuration only; no embedded client secret                                 |
 | Sandbox configuration         | Runtime fallback and `.env.example` use `https://api.sandbox.ovok.com` and `public-example` |
-| Licensing                     | App source declares AGPL-3.0-only; full license and separate Actimi SDK notice included     |
+| Licensing                     | App source declares Apache-2.0; full license and separate Actimi SDK notice included        |
 | IFU links                     | Both SDK catalog links returned PDFs                                                        |
 
 Reproduce the routine with a booted iPhone simulator and the development app running:
@@ -62,4 +62,4 @@ Compatible audit fixes were applied. The remaining automatic force fix proposes 
 
 ## Distribution
 
-This repository distributes original app source under AGPL-3.0-only. It does not distribute a prebuilt binary or proprietary SDK source. The project owner confirmed SDK permission for this example; downstream users need their own applicable Actimi permission. See [THIRD_PARTY_NOTICES.md](../THIRD_PARTY_NOTICES.md).
+This repository distributes original app source under Apache-2.0. It does not distribute a prebuilt binary or proprietary SDK source. The project owner confirmed SDK permission for this example; downstream users need their own applicable Actimi permission. See [THIRD_PARTY_NOTICES.md](../THIRD_PARTY_NOTICES.md).
