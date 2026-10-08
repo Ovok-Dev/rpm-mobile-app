@@ -62,4 +62,4 @@ Compatible audit fixes were applied. The remaining automatic force fix proposes 
 
 ## Distribution
 
-This repository distributes original app source under Apache-2.0. It does not distribute a prebuilt binary or proprietary SDK source. The project owner confirmed SDK permission for this example; downstream users need their own applicable Actimi permission. See [THIRD_PARTY_NOTICES.md](../THIRD_PARTY_NOTICES.md).
+This Ovok-Dev repository contains Ovok's example app for the Actimi Ovok SDK. It distributes the original app source under Apache-2.0, but does not distribute a prebuilt binary or proprietary SDK source. The project owner confirmed SDK permission for this example; downstream SDK use remains subject to Actimi's applicable terms. See [DEPENDENCY_NOTICES.md](../DEPENDENCY_NOTICES.md).

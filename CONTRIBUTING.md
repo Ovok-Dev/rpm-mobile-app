@@ -78,4 +78,4 @@ Update README setup and any affected contributor/agent instructions. Keep offici
 
 Describe a change in terms of the problem and resulting behavior, with its checks and remaining risks. Keep changes local until the repository owner requests remote delivery. Do not push, publish, stage, or commit as part of an ordinary editing task.
 
-Contributions to original app source use **Apache-2.0**; see [LICENSE](LICENSE). Preserve [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). The proprietary native SDK requires separate applicable Actimi permission for use and distribution; the app's license does not grant it. Review the dependency findings in the verification record before any production use.
+This is Ovok's example app for the Actimi Ovok SDK. Contributions to original app source use **Apache-2.0**; see [LICENSE](LICENSE). Preserve [DEPENDENCY_NOTICES.md](DEPENDENCY_NOTICES.md). The native SDK retains its separate Actimi license terms; the app's license does not change them or grant downstream SDK rights. Review the dependency findings in the verification record before any production use.

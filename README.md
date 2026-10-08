@@ -1,6 +1,6 @@
 # Ovok Care
 
-A small, thoughtfully designed CHF remote patient monitoring example built with **Expo, React Native, and Ovok**. Record an ECG, check your weight, and complete a daily symptom questionnaire. Four tabs keep the experience simple: **Home · Diary · Support · Settings**.
+Ovok's CHF remote patient monitoring example app for **Actimi's Ovok SDK**, built with Expo and React Native. Record an ECG, check your weight, and complete a daily symptom questionnaire. Four tabs keep the experience simple: **Home · Diary · Support · Settings**.
 
 [![npm version for @ovok/native](https://img.shields.io/npm/v/%40ovok%2Fnative?label=%40ovok%2Fnative)](https://www.npmjs.com/package/%40ovok%2Fnative) [![npm version for @ovok/core](https://img.shields.io/npm/v/%40ovok%2Fcore?label=%40ovok%2Fcore)](https://www.npmjs.com/package/%40ovok%2Fcore)
 [![CI](https://github.com/Ovok-Dev/rpm-mobile-app/actions/workflows/check.yml/badge.svg?branch=dev)](https://github.com/Ovok-Dev/rpm-mobile-app/actions)
@@ -211,4 +211,4 @@ For an assistant, start with the [documentation router](https://docs.ovok.com/ll
 
 Original app source: **Apache-2.0**. See [LICENSE](LICENSE).
 
-`@ovok/native` remains proprietary Actimi software, used here with the project owner's confirmed permission. Downstream SDK use and distribution require the applicable Actimi agreement; the app's Apache license does not grant those rights. See [third-party notices](THIRD_PARTY_NOTICES.md).
+This is Ovok's example app for the Actimi Ovok SDK. `@ovok/native` retains its separate proprietary SDK terms. The app's Apache license does not change those terms or grant SDK use and distribution rights; follow the applicable Actimi agreement. See [dependency and brand notices](DEPENDENCY_NOTICES.md).
